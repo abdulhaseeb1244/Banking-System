@@ -45,6 +45,7 @@ Provides clear prompts, feedback, and messages for all user actions.
 Allows users to exit the system when they are done.
 
 Why This Project?
+
 •	Simulates real-world banking system operations.
 •	Helps users understand fundamental programming concepts like arrays, loops, and conditional statements.
 •	Interactive and engaging for both developers and users.
